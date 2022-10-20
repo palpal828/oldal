@@ -1,0 +1,22 @@
+body {
+    font-family: arial;
+    font-size: 10pt;
+    color: #555555;
+}
+#tartalom {
+    width: 700pt;
+    margin: auto;
+}
+#sztori {
+    width: 300pt;
+    float: left;
+
+}
+#elkeszites {
+    width: 380pt;
+    float: right;
+}
+#fankocska {
+    float: left;
+    margin-right: 40pt;
+}
